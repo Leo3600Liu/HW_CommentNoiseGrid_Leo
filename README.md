@@ -7,4 +7,4 @@ Magnitude progress bar will change the distance of each grass.
 Grid Size progress bar will control size of the whole picture.
 Grid Resolution prograss bar will control the density of grasses.
 
-![This is the screen shot of my project]()
+![This is the screen shot of my project](https://github.com/Leo3600Liu/HW_CommentNoiseGrid_Leo/blob/master/assets/comment-noise-grid.png)
