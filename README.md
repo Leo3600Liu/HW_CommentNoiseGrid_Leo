@@ -1,6 +1,6 @@
 # HW_CommentNoiseGrid_Leo
 
-Andreasmuller project does a lot of ofxGui. This project looks like a square, and it is composed lots of small "grass".
+Andreasmuller's project does a lot of ofxGui. This project looks like a square, and it is composed lots of small "grass".
 There are five gui insid. When people change the Frequance progress bar, the directly of each grass will change.
 When people change the time Time Frequence, the speed of the changing direction grass will increase or decress.
 Magnitude progress bar will change the distance of each grass.
